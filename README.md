@@ -1,8 +1,8 @@
 🚷 No NPCs / Traffic Script for FiveM
 
-This FiveM script removes all NPCs and vehicle traffic from your server to keep the map clean, immersive, and optimized.
+This FiveM script removes all NPCs and vehicle traffic from your server.
 
-Dieses Script entfernt alle NPCs und Fahrzeuge aus deinem Server, um die Spielwelt sauber, immersiv und performancefreundlich zu halten.
+Dieses Script entfernt alle NPCs und Fahrzeuge aus deinem Server.
 
 ---
 
